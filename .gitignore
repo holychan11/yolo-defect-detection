@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+venv/
+.venv/
+
+# Ultralytics 输出
+runs/
+
+# 模型权重 (大文件)
+*.pt
+
+# 第三方参考代码与备份 (不进仓库)
+fa031-main/
+archive/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+.DS_Store

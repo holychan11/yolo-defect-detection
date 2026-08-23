@@ -1,0 +1,16 @@
+# NEU-DET 钢材表面缺陷检测 - 数据集配置
+# path 为相对本文件的路径, 项目可整体移动
+
+path: dataset
+
+train: images/train
+val: images/val
+
+nc: 6
+names:
+  0: crazing
+  1: inclusion
+  2: patches
+  3: pitted_surface
+  4: rolled-in_scale
+  5: scratches
