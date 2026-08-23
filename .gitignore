@@ -17,6 +17,9 @@ runs/
 fa031-main/
 archive/
 
+# 本地工具 (简历构建等, 与项目无关)
+build_resume.py
+
 # IDE
 .vscode/
 .idea/
