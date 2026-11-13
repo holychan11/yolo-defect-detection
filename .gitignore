@@ -27,3 +27,6 @@ build_resume.py
 # 系统
 Thumbs.db
 .DS_Store
+
+# 数据集缓存
+*.cache
